@@ -1,0 +1,11 @@
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+h1 { color: #ff5733; }
+h2 { color: #33c3ff; }
+h3 { color: #33ff77; }
+h4 { color: #ff33a1; }
+h5 { color: #ffaa33; }
+h6 { color: #8a33ff; }
